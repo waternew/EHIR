@@ -1,6 +1,15 @@
 ### EHIR
 [Paper](https://www.sciencedirect.com/science/article/pii/S0167865524001983)
 
+## Data Preparation
+Please make sure that all template and target image pairs are placed together in a single directory (e.g., ./data). Each pair should be named in the following format: {name}_temp.jpg and {name}_test.jpg.
+
+## Usage
+You can align your images by running the following script:
+'''
+python tools/align.py
+'''
+
 ## Acknowledgments
 This work was contributed equally by Shuixin Deng and Lei Deng.
 
