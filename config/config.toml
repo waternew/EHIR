@@ -1,0 +1,18 @@
+[base]
+width0 = 8320
+align_scale = 0.5
+
+### for target image
+[target]
+base_dpi = 1400
+
+[target.align_camera]
+tform_tp = 'projective'
+padding = 128
+
+### for ehir
+[target.align_camera.edge_align]
+optim='adam'
+lr = 3e-3
+max_patience = 20
+max_iters = 700
