@@ -14,6 +14,7 @@ python tools/align.py
 This work was contributed equally by Shuixin Deng and Lei Deng.
 
 ## Citation
+If you find our work useful, please consider to cite our work.
 ```
 @article{deng2024ehir,
   title={EHIR: energy-based hierarchical iterative image registration for accurate PCB defect detection},
