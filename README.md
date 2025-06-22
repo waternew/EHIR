@@ -6,9 +6,9 @@ Please make sure that all template and target image pairs are placed together in
 
 ## Usage
 You can align your images by running the following script:
-'''
+```
 python tools/align.py
-'''
+```
 
 ## Acknowledgments
 This work was contributed equally by Shuixin Deng and Lei Deng.
