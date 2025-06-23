@@ -1,4 +1,4 @@
-### EHIR
+### EHIR: Energy-based Hierarchical Iterative Image Registration for Accurate PCB Defect Detection
 [Paper](https://www.sciencedirect.com/science/article/pii/S0167865524001983)
 
 This repository is the official implementation of paper "EHIR: Energy-based Hierarchical Iterative Image Registration for Accurate PCB Defect Detection".
