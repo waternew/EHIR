@@ -9,7 +9,6 @@ Our method can be used for accurate PCB image registration and further reference
 
 This approach can be extended to image registration problems characterized by prominent structural attributes.
 
-
 <div align=center>
 <img src='./figures/overview.jpeg' width=100%>
 </div>
