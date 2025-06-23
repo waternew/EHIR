@@ -11,7 +11,7 @@ This approach can be extended to image registration problems characterized by pr
 
 
 <div align=center>
-<img src='./figures/overview.jpeg' width=90%>
+<img src='./figures/overview.jpeg' width=100%>
 </div>
 
 ## Data Preparation
